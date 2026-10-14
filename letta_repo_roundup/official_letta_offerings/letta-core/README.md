@@ -1,0 +1,1 @@
+"=== Creating official repo files (Turn 1 of 10) ==="; echo "=== letta-core ==="; echo "# letta-ai/letta - Core Framework" ; echo "Verified from github.com/letta-ai/letta README.md (monorepo, SDK, Agent SDK, codegen). MIT license. TypeScript runtime framework. Not directly installed but underpins all Letta agents (including Cory Lore Childs via letta-cloud-mcp)." 
